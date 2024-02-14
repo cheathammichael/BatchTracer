@@ -7,3 +7,5 @@ Enterprise-level tool designed and written on my personal computer.
 #and then enter the name of the text file containing the desired subnets.
 #Your results will be collated into a file named BATCH-RESULTS.txt
 #The individual tracert executions will be captured in their own files for closer scrutiny
+
+Program can be demoed using the attached Subnets file as a source. 
